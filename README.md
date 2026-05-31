@@ -1,32 +1,45 @@
-# subspace-money-product-teardown
-## Author
+# Subspace.money Product Teardown
 
-Y. Pranathi
+**Author:** 
+Yerukonda Pranathi
 
-## First Impression
+## Overview
 
-When I first explored Subspace.money, I found the platform visually appealing and user-friendly. The platform brings together different categories such as entertainment, food, shopping, and subscriptions in one place.
+This repository contains my product feedback and analysis of Subspace.money as part of the Product Intern Assignment.
 
-My initial impression was similar to visiting a mall where multiple services are available under one roof. Instead of opening multiple apps individually, users can discover services from a single platform.
+The analysis covers:
 
-However, as a first-time user, I found it difficult to immediately understand the exact purpose of the platform, how it works, and how it differs from other available solutions.
+- First impressions
+- Target users
+- Product feedback
+- Competitor analysis
+- SWOT analysis
+- Final recommendations
 
-## Target Users
+## Documents
 
-Based on my exploration, I believe the primary target users are:
+### Introduction
 
-### Gen Z and Students
+- [01 - First Impression](docs/01-first-impression.md)
+- [02 - Target Users](docs/02-target-users.md)
 
-Gen Z users frequently use multiple subscription-based services for entertainment, food delivery, shopping, and digital content. Subspace.money brings many of these services together, making discovery easier.
+### Product Feedback
 
-### Working Professionals
+- [03 - Product Clarity](docs/03-feedback-product-clarity.md)
+- [04 - Discoverability](docs/04-feedback-discoverability.md)
+- [05 - Trust and Credibility](docs/05-feedback-trust-and-credibility.md)
+- [06 - Login and Onboarding](docs/06-feedback-login-onboarding.md)
+- [07 - Missing Brands and Services](docs/07-feedback-missing-brands.md)
 
-Working professionals often have limited time to compare subscriptions and offers across multiple platforms. A centralized platform can help them save time.
+### Analysis
 
-### Families
+- [08 - Competitor Analysis](docs/08-competitor-analysis.md)
+- [09 - SWOT Analysis](docs/09-swot-analysis.md)
 
-Families who manage multiple subscriptions and shared expenses may find value in having services organized in one place.
+### Recommendations
 
-### My Perspective
+- [10 - Final Recommendations](docs/10-final-recommendations.md)
 
-Among all user groups, I believe Gen Z users would benefit the most because they actively use digital platforms and are more likely to explore multiple subscriptions and online services.
+## Summary
+
+Subspace.money has a strong concept and attractive user interface. My recommendations focus on improving product clarity, onboarding, trust-building, and service coverage to enhance the user experience.
